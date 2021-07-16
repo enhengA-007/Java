@@ -1,3 +1,3 @@
-try in main
-add-------
-try again in feature.md
+reset try and creat new branch fix-B
+and add new content
+>>>>>>> fix-B
